@@ -30,8 +30,21 @@ _coming_
 ### Trello
 We have decided to use Trello as our project manangement system because it is most familiar and utilizes our needs collectively. Within the team there is experience using Trello so it was the first application considered, another application for a project management system considered was Github Projects, this was dismissed as it appeared less interactive then the original option Trello which is customizable with cats as the main theme. Trello also has Github interaction which allows Github repositories to become linked to the cards and tasks which gives us insight into our Github project and branch at hand. Trello also has an interactive mobile application where we can view/update/delete cards on the fly, which is handy for on the go updating.
 
-### Github
-_coming_
+### Github 
+ **GitHub** will be used as our online Version Control Distribution Service. An open source platform with the largest community of software developers currently with 20 million users.
+  
+>>‘Allows an artist’s to be free of  mundane and repetitive tasks’, can build on a previous version.' (IBM, 2016)
+
+We have a set of microservices and mesh applications combined for our app functionality. Composable services to aid in the design and development of our iOS Timetable App. GitHub enables each team member to work remotely working on a copy of the repository. 
+Our team will be able to; clone and work on the project (using XCode, as detailed by Cody); pull requests, will alert Team Leader (Matt) to review the changes;  commit code; merge with main repository multiple times during development, for each build.  Issues are discussion threads. In a tab where bugs can be reported, requests made, or comments, then alert team of issues.  I.e., if a developer found an issue with the Camera Input (as detailed by Ashton) the team would then be notified and the issue can be reviewed.
+
+GitHub has been chosen over the similar service Bitbucket, as it (GitHub) offers issue tracking and links into Slack (our communication tool as, detailed by Geoff), and more importantly links into Trello (Project Management platform tool in use, as detailed by Matt).   
+
+GitHub utilizes Markdown a requirement for this project, which will benefit this collaborative work report as it displays in HTML for ease of reference and quick viewability. Catering to the process of agile development. GitHub is an essential tool to work collaboratively, track who made changes. 
+ 
+The combination of tools we have chosen ensures we can develop our Timetable application over days instead of weeks, with the ability to communicate, see work flows, to efficiently produce a quality iOS mobile software application in Apple's Swift programming langauge.
+ 
+Please view my personal journal report for in-depth explanation, details of features, definition and references. 
 
 ### XCode
 _coming_
